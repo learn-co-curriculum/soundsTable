@@ -21,4 +21,4 @@ Your goal is to reproduce this settings page in a `UITableViewController` using 
 
   * [Using Storyboard with custom UITableViewCells](http://www.techotopia.com/index.php/Using_Xcode_Storyboards_to_Build_Dynamic_TableViews_with_Prototype_Table_View_Cells)
 
-<a href='https://learn.co/lessons/soundsTable' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/soundsTable' title='Sounds Table'>Sounds Table</a> on Learn.co and start learning to code for free.</p>
